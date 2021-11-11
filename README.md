@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Praveen Kumar
-- 💻 I’m interested in programming and app development 
-- 🌱 I’m currently learning Full Stack
-- 🤝 I’m looking to collaborate on tech projects
+- 💻 I'm interested in programming and app development 
+- 🌱 Currently learning Full Stack
+- 📱 Looking to collaborate on tech projects across the globe
 <!-- - 📫 How to reach me ...-->
 
 <!---
