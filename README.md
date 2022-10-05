@@ -16,7 +16,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen-221" alt="praveen-221" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-221&show_icons=true&theme=dark&locale=en" alt="praveen-221" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-221&show_icons=true&theme=dark&locale=en" alt="praveen-221" /></p>
 
 <!---
 praveen-221/praveen-221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
