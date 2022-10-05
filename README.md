@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar R</h1>
-<h3 align="center">Converting caffine and creativity into code...</h3>
+<h3 align="center">Converting Caffeine and Creativity into Code...</h3>
 
 - 💻 I'm interested in **programming and app development**
 
