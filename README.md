@@ -20,11 +20,11 @@
 &emsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 &emsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<br>
+<!-- <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen-221" alt="praveen-221" /></a> </p>
 
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-221&show_icons=true&theme=dark&locale=en" alt="praveen-221" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-221&show_icons=true&theme=dark&locale=en" alt="praveen-221" /></p> -->
 
 <!---
 praveen-221/praveen-221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
