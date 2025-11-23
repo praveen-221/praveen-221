@@ -3,7 +3,7 @@
 
 - 💻 I'm interested in **programming and app development**
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📱 I’m looking to collaborate on **on tech projects across the globe**
 
